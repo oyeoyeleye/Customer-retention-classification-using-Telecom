@@ -8,7 +8,7 @@ Prediction of Churn is True or False: Using Telecom Dataset and making predictio
 
 Churn = False: Customer staying with current telecom network provider. Churn = True: Customer left the current telecom network provider.
 
-####### Dataset Link: https://github.com/ammishra08/MachineLearning/blob/master/Datasets/churn-bigml-20.csv
+##### Dataset Link: https://github.com/ammishra08/MachineLearning/blob/master/Datasets/churn-bigml-20.csv
 
 ### Result
  I was able to classify customers that are likely to leave or stay with an accuracy of 80%. Confusion Matrix was done to see the proportion of the correctly predicted customers vs the actual status of the customers.
