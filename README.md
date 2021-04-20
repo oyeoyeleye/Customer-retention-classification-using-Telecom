@@ -1,4 +1,4 @@
-# Customer-retention-classification-using-Telecom
+# Telecom Churn Analysis
 
 ### Goal
 Predict if a customer is likely to leave the network provider or not.
