@@ -1,7 +1,7 @@
 # Telecom Churn Analysis
 
 ### Goal
-Predict if a customer is likely to leave the network provider or not.
+A simple prediction if a customer is likely to leave the network provider or not using Pyspark.
 
 ### Summary
 Prediction of Churn is True or False: Using Telecom Dataset and making predictions using Classification Algorithms. Displaying Classification Metrics and compare algorithm’s Classification Report and Confusion Matrix. Make predictions if a customer is likely to leave the network provider or Not.
