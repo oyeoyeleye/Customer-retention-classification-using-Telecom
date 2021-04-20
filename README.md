@@ -1,12 +1,13 @@
 # Telecom Churn Analysis
 
 ### Goal
-A simple prediction if a customer is likely to leave the network provider or not using Pyspark.
+A simple prediction if a customer is likely to leave a network provider or not using Pyspark.
 
 ### Summary
-Prediction of Churn is True or False: Using Telecom Dataset and making predictions using Classification Algorithms. Displaying Classification Metrics and compare algorithm’s Classification Report and Confusion Matrix. Make predictions if a customer is likely to leave the network provider or Not.
+Prediction of Churn is True or False: Using Telecom Dataset and making predictions using Classification Algorithms. Displaying Classification Metrics and Confusion Matrix. 
 
-Churn = False: Customer staying with current telecom network provider. Churn = True: Customer left the current telecom network provider.
+Churn = False (:= 0): Customer staying with current telecom network provider. 
+Churn = True (:= 1): Customer left the current telecom network provider.
 
 ##### Dataset Link: https://github.com/ammishra08/MachineLearning/blob/master/Datasets/churn-bigml-20.csv
 
